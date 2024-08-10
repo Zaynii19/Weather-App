@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="location">Location</string>
+    <string name="islamabad">Islamabad</string>
+    <string name="sunny">SUNNY</string>
+    <string name="today">Today</string>
+    <string name="monday">Monday</string>
+    <string name="_8_january_2024">8 January 2024</string>
+    <string name="_33_23">33 / 23</string>
+    <string name="_31">31</string>
+    <string name="weather_condition">weather Condition</string>
+    <string name="degree">degree</string>
+    <string name="_23">23</string>
+    <string name="_33">33</string>
+    <string name="slash">/</string>
+    <string name="humidity">Humidity</string>
+    <string name="_70">70</string>
+    <string name="sea">Sea</string>
+    <string name="sutset">Sutset</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="rain">Rain</string>
+    <string name="wind">Wind</string>
+    <string name="visibility">Visibility</string>
+    <string name="feels_like">Feels like</string>
+    <string name="sunset">Sunset</string>
+</resources>
