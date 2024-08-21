@@ -56,7 +56,7 @@ class MainActivity : AppCompatActivity() {
             .baseUrl("https://api.openweathermap.org/data/2.5/")
             .build().create(ApiInterface::class.java)
 
-        val response = retrofit.getWeatherData(cityName, "43ab042b989765445318f7eebca42940", "metric")
+        val response = retrofit.getWeatherData(cityName, "YourApikey", "metric")
         Log.d("Retrofit URL", response.request().url().toString())
 
         response.enqueue(object : Callback<WeatherData> {

@@ -52,5 +52,6 @@ dependencies {
     implementation (libs.lottie)
     implementation (libs.converter.gson.v2110)
     implementation (libs.retrofit.v2110)
+    implementation(kotlin("script-runtime"))
 
 }
